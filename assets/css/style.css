@@ -139,3 +139,9 @@ footer h2{
   color: white;
   margin-left: 1vw;
 }
+/* fbfed */
+.fbfed{
+  display: flex;
+  justify-content: center;
+  margin-top: 1vw;
+}
